@@ -11,3 +11,4 @@ commands we have seen so far
 7. to register/ to identify ourself to the git
 	git config --global user.email "your mail id registered with github"
 	git config --global user.name "your username in the github"
+8. git status - to check the status of the file (whether it have changes or not)
