@@ -1,1 +1,13 @@
 IN this class, we are going to learn about the git commands which is used to work on the open source projects.
+
+commands we have seen so far
+
+1. git init = to create a local repo on the system
+2. git add = to add the changes to the staging area
+3. git commit = to save the changes to the local repo
+4. git remote add "project url" = to link the remote repo and the local repo
+5. git branch -M main = to create a new branch in the remote repo
+6. git push = to save the changes to the remote repo from the local repo
+7. to register/ to identify ourself to the git
+	git config --global user.email "your mail id registered with github"
+	git config --global user.name "your username in the github"
