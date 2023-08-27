@@ -12,3 +12,4 @@ commands we have seen so far
 	git config --global user.email "your mail id registered with github"
 	git config --global user.name "your username in the github"
 8. git status - to check the status of the file (whether it have changes or not)
+9. git checkout - to work on the branch (copy of the enhanced project)
